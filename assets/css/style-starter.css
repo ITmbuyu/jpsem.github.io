@@ -12340,7 +12340,8 @@ label.price-label {
   font-size: 1.2em;
   color: var(--font-color);
   line-height: 30px;
-  margin-bottom: 5px; }
+  margin-bottom: 5px;
+  list-style: square;  }
 
 .w3l-pricing .price-main-info h5.card-title {
   font-size: 2.8em;
