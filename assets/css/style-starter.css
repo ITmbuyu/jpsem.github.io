@@ -1,8 +1,5 @@
 @charset "UTF-8";
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
+
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -9908,7 +9905,7 @@ input:checked + .mode-container i.gg-moon {
   line-height: 0; }
 
 .navbar .navbar-brand img {
-  max-width: 140px;
+  max-width: 400px;
   transition: all 0.5s ease; }
 
 .navbar-expand-lg .navbar-nav .nav-item {
@@ -10229,7 +10226,7 @@ nav ul li a:hover {
 
 @media only screen and (max-width: 991px) {
   .navbar .navbar-brand img {
-    max-width: 140px; }
+    max-width: 250px; }
   .navbar-toggler {
     border: 0 none;
     font-size: 24px; }
