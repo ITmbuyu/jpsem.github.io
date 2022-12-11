@@ -9997,7 +9997,7 @@ header {
 header.nav-fixed {
   padding: 0px;
   background-color: var(--bg-color);
-  height: 90px;
+  height: 105px;
   border-bottom: none;
   box-shadow: 0 25px 98px 0 rgba(0, 0, 0, 0.03); }
 
